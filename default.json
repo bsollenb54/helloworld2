@@ -1,12 +1,12 @@
 {
   "alexa-libby": {
     "server": {
-      "hostname": "http://bsollenb54.mynetgear.com"
+      "hostname": "hostname"
     },
     "movies": {
       "provider": "radarr",
       "server": {
-        "apiKey": "ff42cbe163fc4b84a0d2ecdf3831b11d",
+        "apiKey": "1234",
         "port": 7878
       },
 	  "quality": "Any"
@@ -14,13 +14,13 @@
     "shows": {
       "provider": "sonarr",
       "server": {
-        "apiKey": "02a82288a67541cc9c69f649ac72b7ec",
+        "apiKey": "3456",
         "port": 8989
       },
 	  "quality": "SD"
     },
 	"artwork": {
-	  "tmdbApiKey": "f23f984bf384eba343f3f483470bfdef"
+	  "tmdbApiKey": "5678"
 	}
   }
 }
